@@ -1,8 +1,8 @@
 {
-  "name": "component.delegate",
+  "name": "component.debugger",
   "version": "1.0.0",
-  "description": "delegating function calls with retry policies",
-  "main": "component.delegate.js",
+  "description": "debug component modules",
+  "main": "component.debugger.js",
   "engines": {
     "node": "12.16.1",
     "npm": "6.13.4"
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marchuanv/component.delegate.git"
+    "url": "git+https://github.com/marchuanv/component.debugger.git"
   },
   "author": "Marchuan Van Der Merwe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marchuanv/component.delegate/issues"
+    "url": "https://github.com/marchuanv/component.debugger/issues"
   },
-  "homepage": "https://github.com/marchuanv/component.delegate#readme",
+  "homepage": "https://github.com/marchuanv/component.debugger#readme",
   "dependencies": {
     "logging": "git+https://github.com/marchuanv/logging.git"
   }
